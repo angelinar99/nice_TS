@@ -4,3 +4,7 @@ poetry shell - activate virtual envirmonet
 
 poetry add pytest --group=dev - for testing'''
 
+x = 3
+y = 4
+z = x + y
+print(z)
